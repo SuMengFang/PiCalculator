@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\et235\\\u684C\u9762\\code\\PiCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53A060BF-0E12-404C-B3C6-9029899C8BA1}|PiCalculator.csproj|c:\\users\\et235\\\u684C\u9762\\code\\picalculator\\models\\pimission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A060BF-0E12-404C-B3C6-9029899C8BA1}|PiCalculator.csproj|solutionrelative:models\\pimission.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A060BF-0E12-404C-B3C6-9029899C8BA1}|PiCalculator.csproj|c:\\users\\et235\\\u684C\u9762\\code\\picalculator\\views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A060BF-0E12-404C-B3C6-9029899C8BA1}|PiCalculator.csproj|solutionrelative:views\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A060BF-0E12-404C-B3C6-9029899C8BA1}|PiCalculator.csproj|c:\\users\\et235\\\u684C\u9762\\code\\picalculator\\views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{53A060BF-0E12-404C-B3C6-9029899C8BA1}|PiCalculator.csproj|solutionrelative:views\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53A060BF-0E12-404C-B3C6-9029899C8BA1}|PiCalculator.csproj|c:\\users\\et235\\\u684C\u9762\\code\\picalculator\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53A060BF-0E12-404C-B3C6-9029899C8BA1}|PiCalculator.csproj|solutionrelative:viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PiMission.cs",
+              "DocumentMoniker": "C:\\Users\\et235\\\u684C\u9762\\code\\PiCalculator\\Models\\PiMission.cs",
+              "RelativeDocumentMoniker": "Models\\PiMission.cs",
+              "ToolTip": "C:\\Users\\et235\\\u684C\u9762\\code\\PiCalculator\\Models\\PiMission.cs",
+              "RelativeToolTip": "Models\\PiMission.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:24:31.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\et235\\\u684C\u9762\\code\\PiCalculator\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\et235\\\u684C\u9762\\code\\PiCalculator\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T10:13:42.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\et235\\\u684C\u9762\\code\\PiCalculator\\VIews\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "VIews\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\et235\\\u684C\u9762\\code\\PiCalculator\\VIews\\MainWindow.xaml",
+              "RelativeToolTip": "VIews\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-04T09:06:26.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\et235\\\u684C\u9762\\code\\PiCalculator\\VIews\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "VIews\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\et235\\\u684C\u9762\\code\\PiCalculator\\VIews\\MainWindow.xaml.cs",
+              "RelativeToolTip": "VIews\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T09:06:19.256Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
